@@ -8,5 +8,5 @@ insert_final_newline = true
 
 [*.cow]
 indent_style = space
-indent_size = 0
+indent_size = 1
 trim_trailing_whitespace = false
